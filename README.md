@@ -117,4 +117,32 @@ X<sup>2</sup>
 
 ---
 
-## 
+## Hacks
+
+### Underline
+
+Some of these words <ins>will be underlined</ins>.
+
+### Indent (Tab)
+
+&nbsp;&nbsp;&nbsp;&nbsp;This is the first sentence of my indented paragraph.
+
+### Image Size
+
+<img src="https://live.staticflickr.com/65535/51911691444_48acb51ca9_b.jpg" width="200" height="100">
+
+### Table Formatting
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| Paragraph   | First paragragh. <br><br> Second paragraph. |
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
+
+### Video
+
+[![Arduino blink led](https://img.youtube.com/vi/KA-P1ZKnn8I/0.jpg)](https://www.youtube.com/watch?v=KA-P1ZKnn8I)
