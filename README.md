@@ -6,7 +6,7 @@ I think I'll use it to format all of my documents from now on.
 
 ---
 
-## Basic syntax
+## Basic Syntax
 
 ### Emphasis
 
@@ -48,7 +48,7 @@ This text is very ***important***
 
 * And here's the third list item.
 
-### Code block
+### Code Block
 
 At the command prompt, type `nano`.
 
@@ -77,11 +77,44 @@ At the command prompt, type `nano`.
 My favorite search engine is [Goole](https://www.google.com/ "The best search engine")  
 ***<https://www.markdownguide.org>***
 
-My favorite search engine is [Google][1]  
-[1]: <https://www.google.com/>
+---
+
+## Extended Syntax
+
+### Table and Alignment
+
+| Syntax | Description | Test Text |
+| :--- | :----: | ---: |
+| Header | Title | Here's this |
+| Paragraph | Text | And more |
+
+### Fenced Code Block and Highlight
+
+```c
+int main() {
+    return 0;
+}
+```
+
+### Strikethrough
+
+~~The world is flat.~~
+
+### Task Lists
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+### Subscript and Superscript
+
+H<sub>2</sub>O  
+X<sup>2</sup>
+
+### Disabling Automatic URL Linking
+
+`http://www.example.com`
 
 ---
 
-## Extended syntax
-
-###
+## 
